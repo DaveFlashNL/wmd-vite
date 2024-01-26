@@ -1,18 +1,10 @@
 {
-  "name": "webminidisc-pro",
+  "name": "wwmd-vite",
   "private": true,
-  "version": "1.4.1",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/asivery/webminidisc.git"
-  },
+  "version": "1.5",
   "author": "asivery",
   "license": "GPL-2.0",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/asivery/webminidisc/issues"
-  },
-  "homepage": "https://web.minidisc.wiki/",
   "scripts": {
     "start": "npm run dev",
     "dev": "npm run update-version && vite",
