@@ -1,8 +1,8 @@
 {
-  "name": "wwmd-vite",
+  "name": "wmd-vite",
   "private": true,
   "version": "1.5",
-  "author": "asivery",
+  "author": "asivery + daveflash for this test repo",
   "license": "GPL-2.0",
   "type": "module",
   "scripts": {
